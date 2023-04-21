@@ -1,0 +1,30 @@
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto .Net C#\bin\Debug\net7.0\Projeto .Net C#.exe
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto .Net C#\bin\Debug\net7.0\Projeto .Net C#.deps.json
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto .Net C#\bin\Debug\net7.0\Projeto .Net C#.runtimeconfig.json
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto .Net C#\bin\Debug\net7.0\Projeto .Net C#.dll
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto .Net C#\bin\Debug\net7.0\Projeto .Net C#.pdb
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto .Net C#\obj\Debug\net7.0\Projeto .Net C#.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto .Net C#\obj\Debug\net7.0\Projeto .Net C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto .Net C#\obj\Debug\net7.0\Projeto .Net C#.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto .Net C#\obj\Debug\net7.0\Projeto .Net C#.AssemblyInfo.cs
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto .Net C#\obj\Debug\net7.0\Projeto .Net C#.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto .Net C#\obj\Debug\net7.0\Projeto .Net C#.dll
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto .Net C#\obj\Debug\net7.0\refint\Projeto .Net C#.dll
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto .Net C#\obj\Debug\net7.0\Projeto .Net C#.pdb
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto .Net C#\obj\Debug\net7.0\Projeto .Net C#.genruntimeconfig.cache
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto .Net C#\obj\Debug\net7.0\ref\Projeto .Net C#.dll
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto_Net_C\bin\Debug\net7.0\Projeto .Net C#.exe
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto_Net_C\bin\Debug\net7.0\Projeto .Net C#.deps.json
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto_Net_C\bin\Debug\net7.0\Projeto .Net C#.runtimeconfig.json
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto_Net_C\bin\Debug\net7.0\Projeto .Net C#.dll
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto_Net_C\bin\Debug\net7.0\Projeto .Net C#.pdb
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto_Net_C\obj\Debug\net7.0\Projeto .Net C#.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto_Net_C\obj\Debug\net7.0\Projeto .Net C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto_Net_C\obj\Debug\net7.0\Projeto .Net C#.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto_Net_C\obj\Debug\net7.0\Projeto .Net C#.AssemblyInfo.cs
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto_Net_C\obj\Debug\net7.0\Projeto .Net C#.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto_Net_C\obj\Debug\net7.0\Projeto .Net C#.dll
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto_Net_C\obj\Debug\net7.0\refint\Projeto .Net C#.dll
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto_Net_C\obj\Debug\net7.0\Projeto .Net C#.pdb
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto_Net_C\obj\Debug\net7.0\Projeto .Net C#.genruntimeconfig.cache
+C:\Users\Miguel\Documents\Boostacamp Microsoft 365\Projeto_Net_C\obj\Debug\net7.0\ref\Projeto .Net C#.dll

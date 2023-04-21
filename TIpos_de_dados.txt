@@ -1,0 +1,10 @@
+tipos de datos 
+
+String - cadeia/conjunto de caracteristicas 
+char - um caracteristicas
+booleano - true ou false muito usado em condições 
+int - um numero inteiro não tem casas decimais
+byt,uint, short, long - também recebem numeros inteiros só que em caracteristicas semelhantes ao int
+decimal-recebe numeros decimais com uma variação de 28 casas significatias usado em valores monetarios
+double-recebe numero decimais de maneira mais precisa que o float
+float- numeros decimais 

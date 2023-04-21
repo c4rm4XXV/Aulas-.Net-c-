@@ -1,0 +1,32 @@
+
+/*
+Classe:
+o conceito de abstração é inerente ao conceito de class, abistrair é pegar um objeito da mundo fisico e abistrai-lo ao
+programa, codficando apenas o necessario para o ambiente do projeto.
+abstraair caracteristicas necessarios.
+ex:
+pegar atibustos como nome, idade, altura, peso ( dados que definem a pessoa no ambiente da solução)
+criar funções como apresentar, falar, andar (funções que atuão no ambiente da solução)
+*/
+
+/*o arquivo Program.cs é onde executevel do onde é*/
+
+/*é o preciso do namespace da classe para poder usando o termo using no começo do codigo para definir qual class será 
+ussada nota sempre colocar no começo do cod essas definições*/
+
+/* ao realizar uma ação de classe, chamar função metodo, atributo usamos o . depois de objeto da classe*/
+
+/* uma boa naneira de organizar o codigo é a quebra de linha no codigo ($"string"+
+$"String")essa ação não gera um quebra de linha na execução para isso usanmos o /n */
+
+/* As conveções de codigo C#:
+Cases padrões para nomes:
+camalCase - primeira palava com letras minisculas e as demais maisculas
+PascalCase - primeira letra de toda palava maisculas
+
+Abreviações evitar ao maximo em atributos e metodos
+
+sempre buscar em classes ter o mesmo nome do  arquivo
+
+
+*/
