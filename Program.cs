@@ -185,13 +185,13 @@ Console.WriteLine($"Soma de todos os numeros : {soma}");
 */
 
 // menu estrutural 
-
-string op = null;
+/*
+string op ;
 bool menu = true;
 
 while (menu)
 {
-    Console.Clear();
+    //Console.Clear();
     Console.WriteLine("Digite uma das opções: ");
     Console.WriteLine("1 - cadastro");
     Console.WriteLine("2 - excluir" );
@@ -220,4 +220,47 @@ while (menu)
             Console.WriteLine("OP invalido");
             break;
     }
+}
+
+*/
+
+
+int[] arrayInt = new int[3];
+
+arrayInt[0] = 100;
+arrayInt[1] = 200;
+arrayInt[2] = 300;
+
+// array com for
+for (int i = 0; i < arrayInt.Length; i++)
+{
+    Console.WriteLine($"Posição {i} = {arrayInt[i]}");
+}
+
+//array com forech tem um sintaxi mais simples onde a variavel valor recebe a cada repetição uma posição 
+// do array, a variação fica a não necessidade de um controlador de index para o array
+
+
+// para aumentar o tamanho do array precisamos usar :
+Array.Resize(ref arrayInt, arrayInt.Length + 2);
+
+
+foreach (int valor in arrayInt)
+{
+
+    Console.WriteLine(valor);
+}
+
+//LISTA
+
+List<String> listaString = new List<string>();
+
+listaString.Add("Miguel");
+listaString.Add("Lara");
+listaString.Add("Paloma");
+listaString.Add("Adriana");
+
+foreach (string item in listaString)
+{
+    Console.WriteLine($"NOME: {item}");
 }
